@@ -11,7 +11,9 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Nick-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Nick-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Nick-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="Nick-Haskell" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg">
+  <img align="center" alt="Nick-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+
   
   <img align="right" alt="Nick-PFP" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1035280260255723600/1041192894830231604/lofi_eu_homem.png">
 </div>
